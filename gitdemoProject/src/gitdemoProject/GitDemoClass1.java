@@ -7,4 +7,8 @@ public class GitDemoClass1 {
 
 	}
 
+	public class extendsGitDemoClass1 {
+	}
+	
+	
 }
